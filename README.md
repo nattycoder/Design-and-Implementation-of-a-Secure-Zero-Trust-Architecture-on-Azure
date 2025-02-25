@@ -18,9 +18,9 @@ This repository explores practical implementations of Zero Trust principles in M
 
 ## Featured Articles So Far
 
-- Designing a Secure Zero Trust Architecture on Azure: Part 1 — What is Zero Trust, and Why Should You Care?
-- The Importance of Gap Assessment in a Zero Trust Approach: Part 2 — Why Gap Assessment is the First Step Toward a Successful Zero Trust Strategy?
-- Microsoft Entra ID: The Backbone of Modern Identity Management
+- <a href="https://medium.com/@alaayedi090/designing-a-secure-zero-trust-architecture-on-azure-part-1-what-is-zero-trust-and-why-should-6740b77f7b16">What is Zero Trust?</a>
+- <a href="https://medium.com/@alaayedi090/the-importance-of-gap-assessment-in-a-zero-trust-approach-part-2-why-gap-assessment-is-the-871bd1d0079d">Gap Assessment for Zero Trust Implementation</a>
+- <a href="https://medium.com/@alaayedi090/microsoft-entra-id-the-backbone-of-modern-identity-management-9b290da2e126">What is Microsoft Entra ID?</a>
 
 ## Getting Started
 
