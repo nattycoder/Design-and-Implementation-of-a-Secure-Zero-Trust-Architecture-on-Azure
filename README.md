@@ -28,7 +28,7 @@ Browse the repository to find articles on specific topics. Each article is self-
 
 ## Medium Blog
 
-All articles in this repository were originally published on Medium. Visit my Medium profile for the latest updates and additional content.
+All articles in this repository were originally published on Medium. Visit my Medium profile for the latest updates and additional content. </br>
 Link: <a href="https://medium.com/@alaayedi090">Alaa Ayedi Medium</a>
 
 ## Contribution
