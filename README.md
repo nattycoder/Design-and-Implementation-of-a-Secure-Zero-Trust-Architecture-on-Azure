@@ -16,15 +16,11 @@ This repository explores practical implementations of Zero Trust principles in M
 - Reference architectures and diagrams
 - Insights on Microsoft's security technologies
 
-## Featured Articles
+## Featured Articles So Far
 
-- Introduction to Zero Trust Architecture
-- Identity and Access Management in Zero Trust
-- Network Security in a Zero Trust Model
-- Data Protection Strategies
-- Azure Security Center and Zero Trust
-- Implementing Conditional Access Policies
-- Monitoring and Analytics for Zero Trust
+- Designing a Secure Zero Trust Architecture on Azure: Part 1 — What is Zero Trust, and Why Should You Care?
+- The Importance of Gap Assessment in a Zero Trust Approach: Part 2 — Why Gap Assessment is the First Step Toward a Successful Zero Trust Strategy?
+- Microsoft Entra ID: The Backbone of Modern Identity Management
 
 ## Getting Started
 
@@ -33,14 +29,11 @@ Browse the repository to find articles on specific topics. Each article is self-
 ## Medium Blog
 
 All articles in this repository were originally published on Medium. Visit my Medium profile for the latest updates and additional content.
+Link: <a href="https://medium.com/@alaayedi090">Alaa Ayedi Medium</a>
 
 ## Contribution
 
 Feel free to open issues for questions or suggestions related to the content. Pull requests with corrections or improvements are welcome.
-
-## License
-
-This content is shared under [LICENSE TYPE]. Please see the LICENSE file for details.
 
 ---
 
