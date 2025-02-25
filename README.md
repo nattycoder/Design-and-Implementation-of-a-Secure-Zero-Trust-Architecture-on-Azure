@@ -22,6 +22,15 @@ This repository explores practical implementations of Zero Trust principles in M
 - <a href="https://medium.com/@alaayedi090/the-importance-of-gap-assessment-in-a-zero-trust-approach-part-2-why-gap-assessment-is-the-871bd1d0079d">Gap Assessment for Zero Trust Implementation</a>
 - <a href="https://medium.com/@alaayedi090/microsoft-entra-id-the-backbone-of-modern-identity-management-9b290da2e126">What is Microsoft Entra ID?</a>
 
+## Sample Presentations
+This section contains presentation materials that can be customized for specific Zero Trust implementation scenarios:
+
+### Organizational Scenarios
+
+- Zero Trust Assessment and Implementation for a Multinational Multi-cloud Organization
+
+Feel free to adapt these materials for your organization's specific needs or client presentations.
+
 ## Getting Started
 
 Browse the repository to find articles on specific topics. Each article is self-contained and includes practical guidance that you can apply to your own Azure environments.
