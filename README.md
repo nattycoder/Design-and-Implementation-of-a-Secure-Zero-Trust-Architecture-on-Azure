@@ -1,2 +1,47 @@
-# Design-and-Implementation-of-a-Secure-Zero-Trust-Architecture-on-Azure
-This repository is designed to hold some blogs related to Microsoft Zero Trust Framework as well as Microsoft Technologies. These blogs are originally posted on my main account on Medium.
+# Design and Implementation of a Secure Zero-Trust Architecture on Azure
+
+This repository contains articles, guides, and resources focused on implementing Microsoft's Zero Trust Framework using Azure technologies. The content here is mirrored from my Medium blog posts, offering insights into secure cloud architecture design and implementation.
+
+## Overview
+
+The Zero Trust security model assumes breach and verifies each request as though it originates from an untrusted network. Instead of believing everything behind the corporate firewall is safe, the Zero Trust model assumes breach and verifies each request as if it originated from an uncontrolled network.
+
+This repository explores practical implementations of Zero Trust principles in Microsoft Azure environments.
+
+## Contents
+
+- Technical guides for implementing Zero Trust architecture
+- Best practices for securing Azure resources
+- Step-by-step implementation tutorials
+- Reference architectures and diagrams
+- Insights on Microsoft's security technologies
+
+## Featured Articles
+
+- Introduction to Zero Trust Architecture
+- Identity and Access Management in Zero Trust
+- Network Security in a Zero Trust Model
+- Data Protection Strategies
+- Azure Security Center and Zero Trust
+- Implementing Conditional Access Policies
+- Monitoring and Analytics for Zero Trust
+
+## Getting Started
+
+Browse the repository to find articles on specific topics. Each article is self-contained and includes practical guidance that you can apply to your own Azure environments.
+
+## Medium Blog
+
+All articles in this repository were originally published on Medium. Visit my Medium profile for the latest updates and additional content.
+
+## Contribution
+
+Feel free to open issues for questions or suggestions related to the content. Pull requests with corrections or improvements are welcome.
+
+## License
+
+This content is shared under [LICENSE TYPE]. Please see the LICENSE file for details.
+
+---
+
+*This repository is maintained as a knowledge-sharing initiative to help organizations implement secure cloud architectures following Zero Trust principles.*
