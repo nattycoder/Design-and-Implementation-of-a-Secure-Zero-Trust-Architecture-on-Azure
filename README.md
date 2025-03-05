@@ -21,7 +21,7 @@ This repository explores practical implementations of Zero Trust principles in M
 - <a href="https://medium.com/@alaayedi090/designing-a-secure-zero-trust-architecture-on-azure-part-1-what-is-zero-trust-and-why-should-6740b77f7b16">What is Zero Trust?</a>
 - <a href="https://medium.com/@alaayedi090/the-importance-of-gap-assessment-in-a-zero-trust-approach-part-2-why-gap-assessment-is-the-871bd1d0079d">Gap Assessment for Zero Trust Implementation</a>
 - <a href="https://medium.com/@alaayedi090/microsoft-entra-id-the-backbone-of-modern-identity-management-9b290da2e126">What is Microsoft Entra ID?</a>
-
+- <a href="https://medium.com/@alaayedi090/microsofts-security-squad-a-zero-trust-party-9345782eae7f">Microsoft's Security Tech Stack for Zero Trust</a>
 ## Sample Presentations
 This section contains presentation materials that can be customized for specific Zero Trust implementation scenarios:
 
